@@ -1,2 +1,5 @@
-# gmail_messages_to_html
-A Python based script to save your gmail labels message as html files for each type of label including inbox,spam,trash,and other categories
+# Gmail messages to html converter
+
+A Python based script to save your gmail message as html files
+
+read each message in labels including inbox,spam,trash,and other categories and save each message as single html file.
