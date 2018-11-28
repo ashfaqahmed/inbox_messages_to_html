@@ -4,7 +4,6 @@ from httplib2 import Http
 import email
 from oauth2client import file, client, tools
 import base64
-import unicodecsv
 import json
 from bs4 import BeautifulSoup
 from lxml.html.clean import Cleaner
